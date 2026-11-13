@@ -1,3 +1,5 @@
 [2026-10-28 12:13:52] endpoint
+[2026-10-28 14:21:02] reverse proxy
+[2026-10-28 16:01:52] contrats d’API
 [2026-11-02 10:52:12] definir les elements a implementer
 [2026-11-02 10:52:34] definir qui fait quoi
