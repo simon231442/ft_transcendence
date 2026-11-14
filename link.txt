@@ -1,0 +1,11 @@
+ssh (vod):
+ssh alpine@195.15.203.186
+
+url (forgejo):
+https://195.15.203.186/transcendence/montagne-de-sucre
+
+url (draw.io):
+https://drive.google.com/file/d/17FnjXU2hczN1WgG0xY6aBbEAprHVv4Gj/view?usp=sharing
+
+url(visio):
+https://meet.google.com/joq-onqn-fpf
