@@ -1,0 +1,7 @@
+- retravailler milestone 0 
+-->decrir en quoi consiste ce step
+-->revoir les taches
+--->faire issue pour chaque choix de technologie
+- traiter issue : frontened dev tool
+- editer issue docker structure
+
