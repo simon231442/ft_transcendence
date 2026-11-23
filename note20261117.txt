@@ -1,5 +1,0 @@
-bon besoin de faire un point:
-j'ai eu une phase de desenchantement. Hier ca commencait a aller trop vite trop fort, du coup je me suis mis a me dire, je suis le seul a vouloir mettre de l'energie sur faire un process de developpement propre.
-
-du coup j'ai pris la decision de me concentrer sur ces aspects d'organisation : mise en place d'adr, de description profonde des milestones, de veille a ce qu'on fct bien par issue.
-cela au pris de prendre en main la partie devops.. Mais enfait je vais faire le job que je disais et si j'ai le temps de remplir l'issue faire la structure docker je prendrai cette dimension sinon je la laisserai a Numa.
