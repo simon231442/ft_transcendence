@@ -7,3 +7,4 @@
 [2026-11-16 18:01:22] retravailler milstone 0
 [2026-11-16 18:02:38] faire issue docker structure
 [2026-11-16 18:11:00] editer issue techno backend
+[2026-11-25 13:40:44] vite et tailwind
